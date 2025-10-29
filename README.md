@@ -1,4 +1,4 @@
-# AI-Job-Match-Analyzer
+# AI Job Match Analyzer
 This project focuses on building a personal AI Resume Match Analyzer — a practical tool that uses Large Language Models (LLMs) to analyze and match a candidate’s profile with job descriptions from the web.
 
 ## Project Overview
