@@ -6,7 +6,7 @@ This project focuses on building a personal AI Resume Match Analyzer, a practica
 The goal of this project is to create an AI-powered assistant that can:
 - Scrape job description pages from websites.
 - Read and analyze a candidate’s resume or portfolio (e.g., GitHub or PDF)
-- Compare both and generate a match score (in %)
+- Compare both and generate a match score (in %).
 - Highlight skill gaps and suggest improvements.
 - Optionally extract job insights — salary, location, and type (full-time/contract)
 
